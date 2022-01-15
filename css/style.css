@@ -207,51 +207,6 @@ color: #787885;
   color: #000;
 }
 
-          /* ---------- footer part css ---------- */
-footer{
-background-color:#0A0826;
-text-align: center;
-}
-.foot-con{
-  padding-top: 30px;
-}
-.foot-con h2{
-font-size: 24px;
-font-weight: 700;
-color: #fff;
-}
-.foot-con h3{
-padding: 5px 0;
-font-size: 14px;
-line-height: 24px;
-color: #D9DBE1;
-}
-.social-icon ul{
-  display: flex;
-  justify-content: center;
-padding-bottom: 20px;
-}
-.social-icon ul li{
-  list-style: none;
-  padding: 0 15px;
-  margin-top: 15px;
-}
-.social-icon ul li a{
-padding: 10px 20px;
-border-radius: 50%;
-background-color: orangered;
-display: block;
-font-size: 25px;
-}
-.social-icon ul li a i{
-color: #fff;
-}
-.social-icon ul li a i:hover{
-color: #000;
-transition: 0.2s ease-in-out;
-}
-
-
 /* contact form  */
 
 .contact-sec{
@@ -313,4 +268,46 @@ input[type=submit] {
 input[type=submit]:hover {
   background-color: #000;
 }
-
+          /* ---------- footer part css ---------- */
+footer{
+background-color:#0A0826;
+text-align: center;
+}
+.foot-con{
+  padding-top: 30px;
+}
+.foot-con h2{
+font-size: 24px;
+font-weight: 700;
+color: #fff;
+}
+.foot-con h3{
+padding: 5px 0;
+font-size: 14px;
+line-height: 24px;
+color: #D9DBE1;
+}
+.social-icon ul{
+  display: flex;
+  justify-content: center;
+padding-bottom: 20px;
+}
+.social-icon ul li{
+  list-style: none;
+  padding: 0 15px;
+  margin-top: 15px;
+}
+.social-icon ul li a{
+padding: 10px 20px;
+border-radius: 50%;
+background-color: orangered;
+display: block;
+font-size: 25px;
+}
+.social-icon ul li a i{
+color: #fff;
+}
+.social-icon ul li a i:hover{
+color: #000;
+transition: 0.2s ease-in-out;
+}
