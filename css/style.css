@@ -127,6 +127,7 @@ nav {
   padding: 15px 20px;
 }
 
+
 /* ---------- main part css ---------- */
 
 main {
@@ -157,7 +158,6 @@ main {
   grid-row-gap: 10px;
   grid-column-gap: 10px;
   padding: 5px;
-  /* box-shadow: 0px 0px 25px -7px rgba(170,170,170,0.71); */
 }
 .product {
   background-color: #fff;
@@ -239,15 +239,14 @@ padding-bottom: 20px;
 .social-icon ul li a{
 padding: 10px 20px;
 border-radius: 50%;
-background-color:rgba(0,0,0,0.2);
+background-color: orangered;
 display: block;
-font-size: 30px;
+font-size: 25px;
 }
 .social-icon ul li a i{
 color: #fff;
 }
 .social-icon ul li a i:hover{
-color: #e02c6d;
+color: #000;
 transition: 0.2s ease-in-out;
 }
-
